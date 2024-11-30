@@ -23,7 +23,6 @@ node_modules/
 
 # Maven
 target/
-dist/
 
 # JetBrains IDE
 .idea/
@@ -59,7 +58,6 @@ out
 
 .devcontainer/
 
-/dist
 .env
 .DS_Store
 /uploads
